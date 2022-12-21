@@ -758,8 +758,9 @@ ul {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 408px;
-    height: 576px;
+    height: 579px;
     background-color: #FCFCFC;
+    margin-top: 0;
     padding-top: 64px;
     padding-bottom: 24px;
     padding-left: 24px;
@@ -825,8 +826,10 @@ ul {
 }
 
 .modal-form-input-dasc {
+    font-family: "Roboto", sans-serif;
     font-size: 12px;
     line-height: 1.1;
+    letter-spacing: 0.01em;
     margin-bottom: 4px;
     color: #8E8F99;
 }
@@ -862,6 +865,10 @@ ul {
 }
 
 .modal-form-message::placeholder {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: 0.01em;
     color: rgda(117, 117, 117, 0.5);
 }
 
