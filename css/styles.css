@@ -684,7 +684,7 @@ ul {
     background-position: center;
     border-radius: 4px;
     background-color: var(--accent-color);
-    border-color: var(--accent-color);
+    border-color: transparent;
     color: var(--hero-color);
     cursor: pointer;
     font-family: "Roboto", sans-serif;
